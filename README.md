@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaganHegde14
 
-- I'm an undergraduate student pursuing a degree in Information Science, currently in my 3rd semester, with a CGPA of 9.4. 
+- I'm an undergraduate student pursuing a degree in Information Technology, currently in my 3rd semester, with a CGPA of 9.4. 
 My passion lies in the tech industry, where I enjoy solving problems through data structures and algorithms (DSA) and actively participate in competitive programming. 
 I have hands-on experience in building web applications using frontend technologies such as HTML, CSS, and JavaScript, and I am eager to deepen my knowledge in backend development.
 
