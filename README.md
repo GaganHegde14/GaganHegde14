@@ -10,6 +10,7 @@ I am always looking for opportunities to expand my technical skills and work on 
 - 
 - 📫 How to reach me ...
 -     Mail-gbhegde14@gmail.com
+-     Linkedin- https://www.linkedin.com/in/gaganhegde14/
 
 
 <!---
