@@ -8,7 +8,7 @@ I am also exploring the field of machine learning and artificial intelligence, w
 I am always looking for opportunities to expand my technical skills and work on projects that push me to grow as a developer.
 
 - 
-- 📫 How to reach me ...
+ 📫 How to reach me ...
 -     Mail-gbhegde14@gmail.com
 -     Linkedin- https://www.linkedin.com/in/gaganhegde14/
 
