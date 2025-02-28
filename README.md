@@ -54,5 +54,4 @@ I am always looking for opportunities to expand my technical skills and work on 
 GaganHegde14/GaganHegde14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### 🐍 Contribution Snake
-![GitHub Snake](https://raw.githubusercontent.com/GaganHegde14/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/GaganHegde14/GaganHegde14/output/github-snake.svg)
