@@ -41,6 +41,7 @@ I am always looking for opportunities to expand my technical skills and work on 
 ![Linear](https://img.shields.io/badge/Linear-5E5EDD?style=for-the-badge&logo=linear&logoColor=white)
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-GaganHegde14&color=blue)
 
 
 - 
