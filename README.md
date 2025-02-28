@@ -47,11 +47,12 @@ I am always looking for opportunities to expand my technical skills and work on 
 
 
 - 
-<h2 align="center">📫 How to reach me...</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=3498db&center=true&vCenter=true&width=500&lines=📧+Mail:+gbhegde14@gmail.com;🔗+LinkedIn:+GaganHegde14" />
-</p>
+- 
+ 📫 How to reach me ...
+-     Mail-gbhegde14@gmail.com
+-     Linkedin- https://www.linkedin.com/in/gaganhegde14/
+
 
 
 <!---
