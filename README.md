@@ -55,4 +55,4 @@ GaganHegde14/GaganHegde14 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ### 🐍 Contribution Snake
-![GitHub Snake](https://raw.githubusercontent.com/your-username/output/github-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/GaganHegde14/output/github-snake.svg)
