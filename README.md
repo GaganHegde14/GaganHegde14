@@ -10,7 +10,8 @@ I am also exploring the field of machine learning and artificial intelligence, w
 I am always looking for opportunities to expand my technical skills and work on projects that push me to grow as a developer.
 
 ## 📜 **Resume**
-[![Download Resume](https://bit.ly/Gagan-Hegde)
+[![Download Resume](https://img.shields.io/badge/📄%20Download%20Resume-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&animation=blink)](https://bit.ly/Gagan-Hegde)
+
 
 
 ## 🚀 Skills:
