@@ -1,7 +1,6 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="GaganHegde14's GitHub profile" src="dark_mode.svg" />
 </picture>
 
@@ -15,9 +14,6 @@ I have hands-on experience in building web applications using frontend technolog
 
 I am also exploring the field of machine learning and artificial intelligence, with a focus on understanding how AI models are built and deployed.
 I am always looking for opportunities to expand my technical skills and work on projects that push me to grow as a developer.
-
-## 📜 **Resume**
-[![Download Resume](https://img.shields.io/badge/📄%20Download%20Resume-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&animation=blink)](https://bit.ly/Gagan-Hegde)
 
 
 
