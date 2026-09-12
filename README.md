@@ -1,3 +1,10 @@
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="GaganHegde14's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=3498db&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Gagan+Hegde!" />
 </h1>
